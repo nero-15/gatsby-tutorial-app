@@ -1,7 +1,5 @@
-// Step 1: Import React
 import * as React from 'react'
 
-// Step 2: Define your component
 const IndexPage = () => {
   return (
     <main>
@@ -12,5 +10,4 @@ const IndexPage = () => {
   )
 }
 
-// Step 3: Export your component
 export default IndexPage
